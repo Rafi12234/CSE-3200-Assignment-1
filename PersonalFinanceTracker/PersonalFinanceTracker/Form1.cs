@@ -15,7 +15,7 @@ using System.Windows.Forms;
 
 namespace PersonalFinanceTracker
 {
-    public partial class Form1 : Form
+    public partial class Form1 :  Form
     {
         // ─────────────────────────────────────────────────────────────
         //  IN-MEMORY STORAGE
