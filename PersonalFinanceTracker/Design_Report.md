@@ -12,7 +12,7 @@ The objective of this project is to build a simple, beginner-friendly personal f
 
 ---
 
-## Tools and Technology Used
+## Tools and  Technology Used
 
 | Component       | Details                            |
 |-----------------|------------------------------------|
